@@ -1,1 +1,1 @@
-Portfolio
+This Portfolio is currently being used to showcase my Computer Science class accomplishments and Resume. It will later represent my past scholarly accomplishment aswell as be more descriptive in the purpose of the entire portfolio. i.e to really impress possible supervisors. 
